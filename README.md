@@ -34,7 +34,7 @@ app_DAO/
 │   ├── 04_venta_exitosa.png
 │   ├── 05_operaciones_rechazadas.png
 │   └── 06_eliminar.png
-└── README.md             # Documentación técnica y evidencias del proyecto
+└── README.md             # Documentación técnica
 ```
 
 ### Comunicación Modular (`from ... import ...`)
